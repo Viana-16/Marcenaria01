@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Marcenaria01._03_Entidades
-{
+{ 
     [Table("Materiais")]
     public class Material
     {
